@@ -1,0 +1,51 @@
+/* CSS Document */
+
+
+
+h1 {
+	
+	font-family: "Cambria";
+	text-align: center;
+	font-size: 60px;
+	background-color: red;
+	
+    }
+
+
+p {
+	
+	font-family: "verdana";
+	font-size: 20px;
+	
+    }
+
+
+ul {
+    
+    list-style: none;
+    text-align: center;
+    font-family: "Verdana";
+    font-size: 30px;
+    font-weight: bold;
+    
+    }
+
+
+canvas {
+    
+    display: block;
+    margin: auto;
+    position: relative;
+    float: inherit;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
